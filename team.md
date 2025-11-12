@@ -1,5 +1,5 @@
-- **Roxana Petcu** — University of Amsterdam  
-- **Mert Yazan** — Amsterdam University of Applied Sciences  
-- **Mohanna Hoveyda** — Radboud University  
-- **Jirui Qi** — University of Groningen  
-- **Maarten de Rijke** — University of Amsterdam
+**Roxana Petcu** (University of Amsterdam) 
+**Mert Yazan** (Amsterdam University of Applied Sciences)
+**Mohanna Hoveyda** (Radboud University)
+**Jirui Qi** (University of Groningen)
+**Maarten de Rijke** (University of Amsterdam)
