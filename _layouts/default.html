@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="icon" href="" type="image/x-icon">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    <title>DIR 2025</title>
+  </head>
+  <body>
+    <header class="page-header" role="banner", style="background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0) ), url('./imgs/radboud.webp'); background-repeat: no-repeat; background-size: cover; height: 400px;">
+       <div class="page-tabbar" style="align:left; display: flex; justify-content: center; flex-wrap: wrap;">
+        <a href="./" class="">Home</a>
+        <a href="./registration" class=""> Registration </a>
+        <a href="./cfp" class=""> CFP </a>
+        <a href="./schedule" class=""> Schedule </a>
+        <a href="./keynote" class=""> Keynote </a>
+        <a href="./info" class=""> Location </a>
+        <a href="./team" class=""> Team </a>
+        <a href="./contact" class=""> Contact </a>
+      </div>
+
+      <h1 class="project-name"> {{site.title}} </h1>
+      <h2 class="project-tagline"> The 22nd Dutch-Belgian Information Retrieval Workshop </h2>
+      <h2 class="project-tagline">
+        27 October 2025, Radboud University, Nijmegen, The Netherlands
+      </h2>
+      
+    </header>
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+  </body>
+</html>
