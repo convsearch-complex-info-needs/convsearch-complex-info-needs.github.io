@@ -1,32 +1,17 @@
+
+<br>
+
+**Half-day workshop at [ECIR 2026](https://ecir2026.org)**  
+📍 **Delft, The Netherlands** | 🗓️ **April 2  2026**
+
 <br>
 
 ## About
-The 22nd Dutch-Belgian Information Retrieval (DIR) Workshop is a forum where researchers and practitioners in Information Retrieval come together to connect, exchange ideas, and discuss the latest developments in IR and related research areas. DIR has an established tradition dating back to the year 2000, making DIR2025 the 22nd edition. Please find an incomplete list of earlier editions [here](https://www.informatiewetenschap.org/dir-history.html)
+Recent advances in conversational systems have expanded research beyond generative dialogue and factoid question-answering tasks, towards addressing complex information needs and improving user experience by providing adaptive answers to users based on style and personalization.
+In conversational search, user queries first go through intermediary steps (e.g., with agentic flows) before providing an answer that fits the user's expectations. As a result, research has shifted its focus to conversations that support exploratory, multi-step information needs, and to challenges such as long-form answer generation, personalization, the orchestration of agentics, and societal considerations, which remain largely open areas of research. 
+This workshop is open to researchers and practitioners from the information retrieval, natural language processing, and human-computer interaction backgrounds to exchange results and prospective ideas around conversational AI by discussing the impacts on users and the need for adaptivity.
+The goal and expected outcome of the workshop is to bring together diverse perspectives, foster mutual learning and collaboration, and build better systems in the future. The program will combine poster presentations, interactive breakout sessions, and invited speakers. 
 
 <br>
-
-## Join Us at DIR 2025!
-
-Be part of the 22nd Dutch-Belgian Information Retrieval Workshop at Radboud University, Nijmegen.  
-We warmly invite you to register and to share your latest research with the community.
-
-
-- ~~**Register here**~~ <span style="color:red;">Registration is closed.</span><br>
-  🗓️ **Registration deadline:** Monday 20 October 2025, 23:59 CEST
-
-- ~~**Submit your work**~~ <span style="color:red;">Submission is closed.</span><br>
-  🗓️ **Submission deadline:** Friday 10 October 2025, 23:59 CEST  
-  🔔 **Notification:** Monday 20 October 2025  
-
-## Sponsors
-
-![SIGIR](logo_sigir.png)
-[ACM Special Interest Group on Information Retrieval](https://sigir.org)
-
-![SIKS](logo_siks.png)
-[School of Information and Knowledge Systems](https://siks.nl)
-
-<br>
-For any questions or problems regarding registration or submission of your work, feel free to contact us at  [ruirlist@science.ru.nl](mailto:ruirlist@science.ru.nl).
 
 
