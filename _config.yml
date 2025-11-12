@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
-title: DIR2025
-email: heydar.soudani@ru.nl
+title: "Workshop on Conversational Search for Complex Information Needs"
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
- DIR2025
+  Workshop on Conversational Search for Complex Information Needs
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: HeydarSoudani
+# url: "https://convsearch-complex-info-needs.github.io"
+
+github_username: convsearch-complex-info-needs
