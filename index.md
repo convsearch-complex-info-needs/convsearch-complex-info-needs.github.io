@@ -1,7 +1,7 @@
 
 <br>
 
-**Half-day workshop at [ECIR 2026](https://ecir2026.org)**  
+**Half-day workshop at [ECIR 2026](https://ecir2026.eu)**  
 📍 **Delft, The Netherlands** | 🗓️ **April 2  2026**
 
 <br>
