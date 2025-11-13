@@ -1,5 +1,4 @@
 # Call for Papers  
-*(Co-located with the European Conference on Information Retrieval – ECIR)*  
 
 We invite submissions of original work as well as vision and position papers to the 1st Workshop on Conversational Search for Complex Information Needs.
 
@@ -9,12 +8,9 @@ For any information needed that is not listed below, please submit questions to:
 
 # Important Dates
 
-*(All dates are tentative and can be updated once the ECIR schedule is fixed.)*  
-
-- Paper submission deadline: **TBA**  
-- Notification of acceptance: **TBA**  
-- Camera-ready deadline (if applicable): **TBA**  
-- Workshop date: **April 2, 2026 (during ECIR)**
+- Paper submission deadline: **February 1, 2025**
+- Notification of acceptance: **February 21, 2026**  
+- Workshop date: **April 2, 2026 (co-located with ECIR, the European Conference on Information Retrieval)**
 
 ---
 
@@ -39,7 +35,6 @@ Page limits are **excluding references** (you can adjust this if needed). The wo
 - All submissions will be **peer reviewed** by the workshop Program Committee for relevance, quality, and potential to stimulate discussion. - At least one author of each accepted paper must register for the workshop and present their work.
 
 **Submission site:** TBA  
-**Contact:** TBA (workshop email or organizer contact)
 
 ---
 
