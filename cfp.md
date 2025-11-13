@@ -2,8 +2,7 @@
 
 We invite submissions of original work as well as vision and position papers to the 1st Workshop on Conversational Search for Complex Information Needs.
 
-For any information needed that is not listed below, please submit questions to the <a href="team" class=""> Team </a>
----
+For any information needed that is not listed below, please submit questions to the <a href="team" class=""> Team </a>.
 
 # Important Dates
 
