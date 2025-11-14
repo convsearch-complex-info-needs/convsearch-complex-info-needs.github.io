@@ -32,7 +32,7 @@ Page limits are **excluding references** (you can adjust this if needed). The wo
 - Papers should follow the **ECIR formatting guidelines** (same style as the main conference).  
 - All submissions will be **peer reviewed** by the workshop Program Committee for relevance, quality, and potential to stimulate discussion. - At least one author of each accepted paper must register for the workshop and present their work.
 
-**Submission site:** https://easychair.org/conferences?conf=coscinecir2026  
+**Submission site:** <a href="https://easychair.org/conferences?conf=coscinecir2026" target="_blank">https://easychair.org/conferences?conf=coscinecir2026</a>
 
 ---
 
