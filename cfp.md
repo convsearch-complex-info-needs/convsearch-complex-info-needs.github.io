@@ -2,7 +2,7 @@
 
 We invite submissions of original work as well as vision and position papers to the 1st Workshop on Conversational Search for Complex Information Needs.
 
-For any information needed that is not listed below, please submit questions to the <a href="team" class=""> Team </a>.
+For any information needed that is not listed below, please submit questions to the <a href="team" class=""> Team</a>.
 
 # Important Dates
 
@@ -32,7 +32,7 @@ Page limits are **excluding references** (you can adjust this if needed). The wo
 - Papers should follow the **ECIR formatting guidelines** (same style as the main conference).  
 - All submissions will be **peer reviewed** by the workshop Program Committee for relevance, quality, and potential to stimulate discussion. - At least one author of each accepted paper must register for the workshop and present their work.
 
-**Submission site:** TBA  
+**Submission site:** https://easychair.org/conferences?conf=coscinecir2026  
 
 ---
 
