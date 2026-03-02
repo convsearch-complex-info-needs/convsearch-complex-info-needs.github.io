@@ -1,3 +1,3 @@
-DIR 2025
+CoSCIN 2026
 ========
-Website of the 22nd Dutch-Belgian Information Retrieval Workshop
+Website of the Workshop on Conversational Search for Complex Information Needs
