@@ -88,7 +88,7 @@ To encourage interaction and discussion, the workshop will combine:
 
 - **Keynote talks** by invited experts  
 - **Panel discussion** on challenges and future directions in conversational search  
-- **Poster session** for all accepted papers  
+- **Oral session** for all accepted papers  
 - **One-minute "lightning" pitches** for poster presentations  
 
 Accepted papers will be presented as posters, preceded by short pitches to the full audience. We plan a **half-day** workshop (approximately 3.5 hours plus breaks).
