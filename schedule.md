@@ -4,9 +4,9 @@
 |------|----------|
 | **09:00–09:10** | Opening remarks and introduction |
 | **09:10–09:30** | Keynote 1: *Mohammad Aliannejadi* |
-| **09:30–10:00** | Industry Presentation and Discussion: Yougang Lyu |
+| **09:30–10:00** | Industry Presentation and Discussion: _Yougang Lyu_ |
 | **10:00–10:10** | Coffee break |
-| **10:10–12:00** | **Oral Presentations** (10-min presentations + 2-min QA) |
+| **10:10–12:00** | Oral Presentations (10-min presentations + 2-min QA) |
 | | • 10:10–10:22 — Maik Larooij: *Sensitivity-Aware Retrieval-Augmented Intent Clarification* |
 | | • 10:22–10:34 — Arthur Câmara, Vincent Slot & Jakub Zavrel: *Self-Optimizing Multi-Agent Systems for Deep Research* |
 | | • 10:34–10:46 — Daan Di Scala & Maaike de Boer: *Let Me Explain — Knowledge-based RAG for Agricultural Recommendation Explanations* |
