@@ -1,3 +1,41 @@
 ---
 ---
 @import 'jekyll-theme-cayman';
+
+.schedule-wrap {
+  overflow-x: auto;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1.2rem;
+}
+
+.schedule-table th,
+.schedule-table td {
+  padding: 0.9rem 1rem;
+  vertical-align: top;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.schedule-table th {
+  text-align: left;
+}
+
+.schedule-table td:first-child,
+.schedule-table th:first-child {
+  width: 11.5rem;
+  white-space: nowrap;
+}
+
+.schedule-table a {
+  font-weight: 600;
+}
+
+@media (max-width: 680px) {
+  .schedule-table td:first-child,
+  .schedule-table th:first-child {
+    width: 8.8rem;
+  }
+}
