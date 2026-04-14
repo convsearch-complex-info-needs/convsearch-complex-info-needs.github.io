@@ -10,26 +10,26 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>09:00–09:10</strong></td>
+        <td><strong>09:00</strong></td>
         <td>Opening remarks and introduction</td>
       </tr>
       <tr>
-        <td><strong>09:10–09:30</strong></td>
+        <td><strong>09:10</strong></td>
         <td>
           Keynote 1: <em>Mohammad Aliannejadi</em><br>
           <a href="https://github.com/convsearch-complex-info-needs/convsearch-complex-info-needs.github.io/blob/main/Presentations/Keynote%201%20Mohammad.pdf" target="_blank" rel="noopener noreferrer">Presentation</a>
         </td>
       </tr>
       <tr>
-        <td><strong>09:30–10:00</strong></td>
+        <td><strong>09:30</strong></td>
         <td>Industry Presentation and Discussion: <em>Yougang Lyu</em></td>
       </tr>
       <tr>
-        <td><strong>10:00–10:10</strong></td>
+        <td><strong>10:00</strong></td>
         <td>Coffee break</td>
       </tr>
       <tr>
-        <td><strong>10:10–12:00</strong></td>
+        <td><strong>10:10</strong></td>
         <td>
           Oral Presentations (10-min presentations + 2-min QA)
           <ul>
@@ -61,14 +61,14 @@
         </td>
       </tr>
       <tr>
-        <td><strong>12:00–12:20</strong></td>
+        <td><strong>12:00</strong></td>
         <td>
           Keynote 2: <em>Cristina Ioana Muntean</em><br>
           <a href="https://github.com/convsearch-complex-info-needs/convsearch-complex-info-needs.github.io/blob/main/Presentations/Keynote%202%20Cristina%20Copy%20of%20ECIR%202026%20-%20Conversational%20Keynote.pdf" target="_blank" rel="noopener noreferrer">Presentation</a>
         </td>
       </tr>
       <tr>
-        <td><strong>12:20–12:30</strong></td>
+        <td><strong>12:20</strong></td>
         <td>Wrap-up and closing remarks</td>
       </tr>
     </tbody>
